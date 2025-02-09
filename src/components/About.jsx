@@ -50,7 +50,7 @@ const About = () =>{
                             <div>
                                 <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                                 bg-gradient-to-r from-green-400 to-blue-500">
-                                    3+
+                                    0.5+
                                 </h3>
                                 <p>Experience</p>
                             </div>
